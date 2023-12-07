@@ -5,7 +5,13 @@ Neste treinamento o instrutor Ricardo Zago ensina a criar um Token do Zero, ensi
 
 O primeiro passo foi criar a carteira:
 
+<div align-"center">
 ![carteira metamask](https://github.com/leodario/dio_primeiro_token/assets/6862531/959ed22e-4c55-45e6-a622-88f90baac24e)
+</div>
+
+Logo após escolhi a rede de teste Goerli:
+<div align-"center">
+</div>
 
 Utilizamos a IDE REMIX https://remix.ethereum.org/
 
