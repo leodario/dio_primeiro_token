@@ -3,6 +3,8 @@
 
 Neste treinamento o instrutor Ricardo Zago ensina a criar um Token do Zero, ensinando um passo a passo para a configuração da Wallet Metamask e do RPC info.
 
+O primeiro passo foi criar a carteira: ![carteira metamask](https://github.com/leodario/dio_primeiro_token/assets/6862531/959ed22e-4c55-45e6-a622-88f90baac24e)
+
 Utilizamos a IDE REMIX https://remix.ethereum.org/
 
 Utilizei a versão // SPDX-License-Identifier: GPL-3.0 - pragma solidity ^0.8.7.
